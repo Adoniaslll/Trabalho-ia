@@ -5,7 +5,7 @@ from statistics import mean
 # Problema: Aluffi-Pentini
 # f(x) = 0.25*x1^4 - 0.5*x1^2 + 0.1*x1 + 0.5*x2^2
 # Domínio: -10 <= x1, x2 <= 10
-# Ótimo global aproximado: f(x*) ≈ -0.3523 em (-1.0465, 0)
+# Optimal Value: f(x*) ≈ -0.3523 em (-1.0465, 0)
 # ========================================
 
 DOMAIN = (-10.0, 10.0)
