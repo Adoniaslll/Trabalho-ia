@@ -5,7 +5,7 @@ from statistics import mean
 # Problema: Three-Hump Camel (CB3)
 # f(x) = 2*x1^2 - 1.05*x1^4 + x1^6/6 + x1*x2 + x2^2
 # Domínio: -5 <= x1, x2 <= 5
-# Ótimo global: f(x*) = 0 em (0, 0)
+# Optimal Value: f(x*) = 0 em (0, 0)
 # ========================================
 
 DOMAIN = (-5.0, 5.0)
